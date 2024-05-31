@@ -1,0 +1,3 @@
+C:/Users/domin/CLionProjects/zaliczenie2/cmake-build-debug/CMakeFiles/zaliczenie2.dir
+C:/Users/domin/CLionProjects/zaliczenie2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/domin/CLionProjects/zaliczenie2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
