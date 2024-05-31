@@ -30,7 +30,7 @@ Gracz może w dowolnym momencie zakończyć rozgrywkę i zapisać jej stan do pl
 ![image](https://github.com/DominikZydek/Pyroklas/assets/139676226/9a1bc4b7-fe62-4edd-a69d-c0f38556f3d2)
 
 ### Mapa
-d![image](https://github.com/DominikZydek/Pyroklas/assets/139676226/5e631990-85ad-4d26-a160-e4c3db53d0cf)
+![image](https://github.com/DominikZydek/Pyroklas/assets/139676226/5e631990-85ad-4d26-a160-e4c3db53d0cf)
 
 ### Przykładowy dialog z postacią
 ![image](https://github.com/DominikZydek/Pyroklas/assets/139676226/2a611dba-1889-4a5b-bee1-8cf3e8094250)
